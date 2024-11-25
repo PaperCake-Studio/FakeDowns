@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Downsicient Math Lite
 // @namespace    http://tampermonkey.net/
-// @version      2024-99-99_01
+// @version      2024-11-25_01
 // @description  try to take over the world!
 // @author       Down'sicient Academy
 // @match        http*://m.afficienta.cn*
